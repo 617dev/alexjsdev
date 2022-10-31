@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexjsdev&show_icons=true&hide_border=true)
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexjsdev&show_icons=true&hide_border=true&theme=tokyonight)
 
 <br>
 
